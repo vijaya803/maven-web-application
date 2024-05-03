@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center"> Malla Reddy engineering College is the parent college of the Malla Reddy Group of Institutions, Hyderabad, Telangana, India founded by Shri Ch Malla Reddy.The institute was established in 2002, is approved by the AICTE New Delhi, and was affiliated to Jawaharlal Nehru Technological University, Hyderabad.</h1>
-<h1 align="center"> Campus 1, Dulapally Road Maisammaguda Post via. Kompally Rangareddy Dt Secunderabad, Hyderabad, Telangana 500100</h1>
+<h1 align="center"> Campus 1, Dulapally Road Maisammaguda Post via. Kompally Rangareddy Dt Secunderabad, Hyderabad, Telangana 500101</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
