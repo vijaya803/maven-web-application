@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>JNTUH University- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies Private Ltd. Ph No: +91-9980923226, +91-9980923216 ,+91-9900012028,Bengaluru,Karnataka,India</h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect & Terraform in Bangalore India.Teaching Real Time scnerios</h1>
+<h1 align="center"> Malla Reddy engineering College is the parent college of the Malla Reddy Group of Institutions, Hyderabad, Telangana, India founded by Shri Ch Malla Reddy.The institute was established in 2002, is approved by the AICTE New Delhi, and was affiliated to Jawaharlal Nehru Technological University, Hyderabad.</h1>
+<h1 align="center"> Campus 1, Dulapally Road Maisammaguda Post via. Kompally Rangareddy Dt Secunderabad, Hyderabad, Telangana 500100</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
